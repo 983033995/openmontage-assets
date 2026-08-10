@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000005afc820da581bddf05936e1d",
+  "sourceSurface": "library",
+  "originalName": "民国秘境角色与场景设定图.png",
+  "project": "wuxia-comic",
+  "confidence": "high",
+  "libraryPath": "/WuxiaComic/民国秘境角色与场景设定图.png",
+  "generatedAt": "2026-08-03T11:23:23.712616Z",
+  "syncedAt": "2026-08-10T10:05:44.619Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2500330,
+  "sha256": "ea474ac9f29fe0989e9280f4cd135d42f8af26c82170a800396550bab4c1b27c",
+  "assetPath": "projects/wuxia-comic/2026-08-03/民国秘境角色与场景设定图.png",
+  "metadataPath": "projects/wuxia-comic/2026-08-03/民国秘境角色与场景设定图.png.json"
+}

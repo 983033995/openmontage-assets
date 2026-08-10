@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000dd3871fda8d847b52866d5a3",
+  "sourceSurface": "library",
+  "originalName": "青春与学术的交织.png",
+  "project": "wind-summer-night",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-05-31T15:10:44.656075Z",
+  "syncedAt": "2026-08-10T10:05:06.361Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1985873,
+  "sha256": "0a1a87e9d6c5dd653834705f8082de971b4436684217aa9b1e92e122b615d467",
+  "assetPath": "projects/wind-summer-night/2026-05-31/青春与学术的交织.png",
+  "metadataPath": "projects/wind-summer-night/2026-05-31/青春与学术的交织.png.json"
+}

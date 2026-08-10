@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000dd9081f78f8b2c06eb97c424",
+  "sourceSurface": "library",
+  "originalName": "清辉：月色入怀.png",
+  "project": "liuyifei-poster",
+  "confidence": "medium",
+  "libraryPath": null,
+  "generatedAt": "2026-08-02T05:50:57.855037Z",
+  "syncedAt": "2026-08-10T10:05:43.322Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2051586,
+  "sha256": "2bbfadba02e143c460c6c0f6020fbf6657503740923838b9c2ad777a174f1312",
+  "assetPath": "projects/liuyifei-poster/2026-08-02/清辉：月色入怀.png",
+  "metadataPath": "projects/liuyifei-poster/2026-08-02/清辉：月色入怀.png.json"
+}

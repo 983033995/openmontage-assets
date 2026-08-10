@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_0000000011247230ab062265dfa6ad45",
+  "sourceSurface": "library",
+  "originalName": "pagemind_final_ui_visual.png",
+  "project": "pagemind",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-06-17T07:52:19.316424Z",
+  "syncedAt": "2026-08-10T10:05:10.839Z",
+  "mimeType": "image/png",
+  "sizeBytes": 256113,
+  "sha256": "a03021999ba7c1453c5684ace67e3d6d8b26e48f4a7a6c7468d182db343da42d",
+  "assetPath": "projects/pagemind/2026-06-17/pagemind_final_ui_visual.png",
+  "metadataPath": "projects/pagemind/2026-06-17/pagemind_final_ui_visual.png.json"
+}

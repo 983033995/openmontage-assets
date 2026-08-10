@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000001fdc81fda97450848453edc9",
+  "sourceSurface": "library",
+  "originalName": "米娅环游美国资产包.png",
+  "project": "mia-usa",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-08-09T10:09:17.689402Z",
+  "syncedAt": "2026-08-10T10:06:09.644Z",
+  "mimeType": "image/png",
+  "sizeBytes": 3400996,
+  "sha256": "973a3e8e30ae1caee8e1f60a960188be00aedcdf165fc746ef9f0bc2c87a8bef",
+  "assetPath": "projects/mia-usa/2026-08-09/米娅环游美国资产包.png",
+  "metadataPath": "projects/mia-usa/2026-08-09/米娅环游美国资产包.png.json"
+}

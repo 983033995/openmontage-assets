@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000001e5871f5be5ce355a7d13649",
+  "sourceSurface": "library",
+  "originalName": "background.jpg",
+  "project": "codex-dream-skin/caishen",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-07-17T07:23:33.230134Z",
+  "syncedAt": "2026-08-10T10:05:36.527Z",
+  "mimeType": "image/jpeg",
+  "sizeBytes": 189906,
+  "sha256": "6b7cb1e71b0dc2235abe8d0df99ef9bd1637e262e3fad3db2052cbf6f23ee8a7",
+  "assetPath": "projects/codex-dream-skin/caishen/2026-07-17/background.jpg",
+  "metadataPath": "projects/codex-dream-skin/caishen/2026-07-17/background.jpg.json"
+}

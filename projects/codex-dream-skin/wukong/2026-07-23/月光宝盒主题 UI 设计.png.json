@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000006db881f5a976839a24b2cc3d",
+  "sourceSurface": "library",
+  "originalName": "月光宝盒主题 UI 设计.png",
+  "project": "codex-dream-skin/wukong",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-07-23T19:00:19.969980Z",
+  "syncedAt": "2026-08-10T10:05:40.086Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2190578,
+  "sha256": "93ac12a1ec3c3a03af1571640ff4824cc1de1cf5bc5f22133ac30e41b8b38575",
+  "assetPath": "projects/codex-dream-skin/wukong/2026-07-23/月光宝盒主题 UI 设计.png",
+  "metadataPath": "projects/codex-dream-skin/wukong/2026-07-23/月光宝盒主题 UI 设计.png.json"
+}

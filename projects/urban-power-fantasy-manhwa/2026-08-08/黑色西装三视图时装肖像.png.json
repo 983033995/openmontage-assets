@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000209481fd9a686e612f92c833",
+  "sourceSurface": "library",
+  "originalName": "黑色西装三视图时装肖像.png",
+  "project": "urban-power-fantasy-manhwa",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-08-08T06:08:34.664195Z",
+  "syncedAt": "2026-08-10T10:05:47.946Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1758634,
+  "sha256": "58c3f8e2c4ea196e95dbba14a11cd879a99b10ff656682383515d38df7262f92",
+  "assetPath": "projects/urban-power-fantasy-manhwa/2026-08-08/黑色西装三视图时装肖像.png",
+  "metadataPath": "projects/urban-power-fantasy-manhwa/2026-08-08/黑色西装三视图时装肖像.png.json"
+}

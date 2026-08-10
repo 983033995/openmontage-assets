@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000003b4481fd934c6a972500290c",
+  "sourceSurface": "library",
+  "originalName": "image-gen-4(2).png",
+  "project": "urban-power-fantasy-manhwa",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-08-08T06:18:49.446423Z",
+  "syncedAt": "2026-08-10T10:05:56.238Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2044033,
+  "sha256": "13c592e2b9148ed2dfb3fb27e240a9cdb8f515792037cddf896709bdf590cfcb",
+  "assetPath": "projects/urban-power-fantasy-manhwa/2026-08-08/image-gen-4(2).png",
+  "metadataPath": "projects/urban-power-fantasy-manhwa/2026-08-08/image-gen-4(2).png.json"
+}

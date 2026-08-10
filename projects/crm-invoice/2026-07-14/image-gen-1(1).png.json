@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000003f0871fdb8949ae44c256c2f",
+  "sourceSurface": "library",
+  "originalName": "image-gen-1(1).png",
+  "project": "crm-invoice",
+  "confidence": "medium",
+  "libraryPath": null,
+  "generatedAt": "2026-07-14T07:04:48.013608Z",
+  "syncedAt": "2026-08-10T10:05:28.074Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1081494,
+  "sha256": "146a98127aefbfc878b8b155cb3e7f1814671d4dbb5c9ab7b4387c54d13adb3e",
+  "assetPath": "projects/crm-invoice/2026-07-14/image-gen-1(1).png",
+  "metadataPath": "projects/crm-invoice/2026-07-14/image-gen-1(1).png.json"
+}

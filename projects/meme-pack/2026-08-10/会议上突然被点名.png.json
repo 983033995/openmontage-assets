@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_0000000026ac8230af926bc5026d747b",
+  "sourceSurface": "library",
+  "originalName": "会议上突然被点名.png",
+  "project": "meme-pack",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-08-10T02:04:57.694353Z",
+  "syncedAt": "2026-08-10T10:06:17.483Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1850757,
+  "sha256": "1baae72b4cac99c6fc3d0dbff720a15400c2edc21ecb4499ba6c7111f0e41da4",
+  "assetPath": "projects/meme-pack/2026-08-10/会议上突然被点名.png",
+  "metadataPath": "projects/meme-pack/2026-08-10/会议上突然被点名.png.json"
+}

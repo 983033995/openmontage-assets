@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000a63c71fd85a7d527a599ef2e",
+  "sourceSurface": "library",
+  "originalName": "夜雨中的黑客堆积室.png",
+  "project": "korean-revenge-manhwa",
+  "confidence": "medium",
+  "libraryPath": null,
+  "generatedAt": "2026-05-25T14:05:07.116222Z",
+  "syncedAt": "2026-08-10T10:04:58.231Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2230231,
+  "sha256": "13d893b39617fbebede0174a7c6545728554d418ad90c692e2c2f33d9a1674a6",
+  "assetPath": "projects/korean-revenge-manhwa/2026-05-25/夜雨中的黑客堆积室.png",
+  "metadataPath": "projects/korean-revenge-manhwa/2026-05-25/夜雨中的黑客堆积室.png.json"
+}

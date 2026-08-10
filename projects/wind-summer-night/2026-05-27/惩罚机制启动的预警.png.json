@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000007ad071fbb608c32829ccb181",
+  "sourceSurface": "library",
+  "originalName": "惩罚机制启动的预警.png",
+  "project": "wind-summer-night",
+  "confidence": "medium",
+  "libraryPath": null,
+  "generatedAt": "2026-05-27T09:11:35.985136Z",
+  "syncedAt": "2026-08-10T10:05:02.488Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1797943,
+  "sha256": "e424a3cdb756d488b4fb107f74373940b520a853556e1f118394a88391dd9351",
+  "assetPath": "projects/wind-summer-night/2026-05-27/惩罚机制启动的预警.png",
+  "metadataPath": "projects/wind-summer-night/2026-05-27/惩罚机制启动的预警.png.json"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_0000000025dc71f58d2d72c10d35ad42",
+  "sourceSurface": "library",
+  "originalName": "紧张对峙的商业氛围.png",
+  "project": "korean-revenge-manhwa",
+  "confidence": "medium",
+  "libraryPath": null,
+  "generatedAt": "2026-05-26T02:19:30.077723Z",
+  "syncedAt": "2026-08-10T10:05:01.093Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1630621,
+  "sha256": "8187e7bfab4c94d7c09a8c3c422ebb7fd42c696c47d3e526cc90a0b6c3c7a724",
+  "assetPath": "projects/korean-revenge-manhwa/2026-05-26/紧张对峙的商业氛围.png",
+  "metadataPath": "projects/korean-revenge-manhwa/2026-05-26/紧张对峙的商业氛围.png.json"
+}

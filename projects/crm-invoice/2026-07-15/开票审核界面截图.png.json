@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000d4bc71fdb6af6c3ae0f2fc45",
+  "sourceSurface": "library",
+  "originalName": "开票审核界面截图.png",
+  "project": "crm-invoice",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-07-15T02:31:19.529775Z",
+  "syncedAt": "2026-08-10T10:05:35.351Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1339176,
+  "sha256": "1a78e6f766eaa4abf98fdbcb727308a0b475e11c771ad39943aac01204d7f3cf",
+  "assetPath": "projects/crm-invoice/2026-07-15/开票审核界面截图.png",
+  "metadataPath": "projects/crm-invoice/2026-07-15/开票审核界面截图.png.json"
+}

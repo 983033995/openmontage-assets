@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000001dc471fdbd9c0f8d09070662",
+  "sourceSurface": "library",
+  "originalName": "image-gen-10.png",
+  "project": "pagemind",
+  "confidence": "high",
+  "libraryPath": "/AI浏览器插件/image-gen-10.png",
+  "generatedAt": "2026-07-10T07:53:19.389042Z",
+  "syncedAt": "2026-08-10T10:05:23.646Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1429712,
+  "sha256": "3abd9cf13828a659fc4668233f1f23b1b87a29932105e26c5a2b7ee348cdebbf",
+  "assetPath": "projects/pagemind/2026-07-10/image-gen-10.png",
+  "metadataPath": "projects/pagemind/2026-07-10/image-gen-10.png.json"
+}

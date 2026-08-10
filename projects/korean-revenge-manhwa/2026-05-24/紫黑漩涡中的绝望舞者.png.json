@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000ef9071f7b05064657b6e56c2",
+  "sourceSurface": "library",
+  "originalName": "紫黑漩涡中的绝望舞者.png",
+  "project": "korean-revenge-manhwa",
+  "confidence": "low",
+  "libraryPath": null,
+  "generatedAt": "2026-05-24T10:07:28.776876Z",
+  "syncedAt": "2026-08-10T10:04:58.768Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2317656,
+  "sha256": "f95139ad2d7c49a7ff72bd35b798e94cda2bc1bf870029ce3822bccbfa02676e",
+  "assetPath": "projects/korean-revenge-manhwa/2026-05-24/紫黑漩涡中的绝望舞者.png",
+  "metadataPath": "projects/korean-revenge-manhwa/2026-05-24/紫黑漩涡中的绝望舞者.png.json"
+}

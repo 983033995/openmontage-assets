@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000140871fdb8a408aff6ec9963",
+  "sourceSurface": "library",
+  "originalName": "PageMind 智能浏览器插件设计稿.png",
+  "project": "pagemind",
+  "confidence": "high",
+  "libraryPath": "/AI浏览器插件/PageMind 智能浏览器插件设计稿.png",
+  "generatedAt": "2026-07-10T07:43:33.388175Z",
+  "syncedAt": "2026-08-10T10:05:14.656Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1577856,
+  "sha256": "65184e3758d046d15e0afb76850de8d70014eea5260d0761331b68eca15617db",
+  "assetPath": "projects/pagemind/2026-07-10/PageMind 智能浏览器插件设计稿.png",
+  "metadataPath": "projects/pagemind/2026-07-10/PageMind 智能浏览器插件设计稿.png.json"
+}

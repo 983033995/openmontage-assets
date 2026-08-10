@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_000000006c9c81fbbdd7bbaa184996bc",
+  "sourceSurface": "library",
+  "originalName": "image-gen-6(3).png",
+  "project": "meme-pack",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-08-10T02:07:59.594373Z",
+  "syncedAt": "2026-08-10T10:06:20.816Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1798668,
+  "sha256": "316f204874f73efef94ce56798cbf2c0deedb57b43ba821e782afc97288a55dd",
+  "assetPath": "projects/meme-pack/2026-08-10/image-gen-6(3).png",
+  "metadataPath": "projects/meme-pack/2026-08-10/image-gen-6(3).png.json"
+}

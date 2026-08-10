@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000224081fdb001e6a0c6ec0a8b",
+  "sourceSurface": "library",
+  "originalName": "齐天大圣创作引擎界面.png",
+  "project": "codex-dream-skin/wukong",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-07-23T18:54:11.411071Z",
+  "syncedAt": "2026-08-10T10:05:38.944Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2252939,
+  "sha256": "dfd20d72029159453d0ad03be4ac0ca863649b0cbad33b0342f41eb2e2020e96",
+  "assetPath": "projects/codex-dream-skin/wukong/2026-07-23/齐天大圣创作引擎界面.png",
+  "metadataPath": "projects/codex-dream-skin/wukong/2026-07-23/齐天大圣创作引擎界面.png.json"
+}

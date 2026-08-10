@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000a6348230bf08a4a8ac824c60",
+  "sourceSurface": "library",
+  "originalName": "林砚角色与江南秘境设定集.png",
+  "project": "wuxia-comic",
+  "confidence": "high",
+  "libraryPath": "/WuxiaComic/林砚角色与江南秘境设定集.png",
+  "generatedAt": "2026-08-03T11:52:19.480501Z",
+  "syncedAt": "2026-08-10T10:05:45.766Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2649503,
+  "sha256": "29ee01132c0d5d18c9ccdb9f7fc28989d66d5db58166fb12c9c50dd50164f58e",
+  "assetPath": "projects/wuxia-comic/2026-08-03/林砚角色与江南秘境设定集.png",
+  "metadataPath": "projects/wuxia-comic/2026-08-03/林砚角色与江南秘境设定集.png.json"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000b74481fd8142e879ed2883a8",
+  "sourceSurface": "library",
+  "originalName": "林砚角色设定与江湖场景图鉴.png",
+  "project": "wuxia-comic",
+  "confidence": "high",
+  "libraryPath": "/WuxiaComic/林砚角色设定与江湖场景图鉴.png",
+  "generatedAt": "2026-08-03T11:52:20.613673Z",
+  "syncedAt": "2026-08-10T10:05:48.112Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2669458,
+  "sha256": "f01b5cda04c1c1601a01ce9c89992c1dbbce8f2c3060325da7a2c9f891b3faa2",
+  "assetPath": "projects/wuxia-comic/2026-08-03/林砚角色设定与江湖场景图鉴.png",
+  "metadataPath": "projects/wuxia-comic/2026-08-03/林砚角色设定与江湖场景图鉴.png.json"
+}

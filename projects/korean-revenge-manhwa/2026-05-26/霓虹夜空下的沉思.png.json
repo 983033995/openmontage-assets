@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_0000000088a871f7ab72cc3b7da2d558",
+  "sourceSurface": "library",
+  "originalName": "霓虹夜空下的沉思.png",
+  "project": "korean-revenge-manhwa",
+  "confidence": "medium",
+  "libraryPath": null,
+  "generatedAt": "2026-05-26T02:31:55.308164Z",
+  "syncedAt": "2026-08-10T10:05:01.705Z",
+  "mimeType": "image/png",
+  "sizeBytes": 1742709,
+  "sha256": "06f6cfaa29f65cd5484d896fbbb7008e87b075753edef992c6b2caba0b97ec61",
+  "assetPath": "projects/korean-revenge-manhwa/2026-05-26/霓虹夜空下的沉思.png",
+  "metadataPath": "projects/korean-revenge-manhwa/2026-05-26/霓虹夜空下的沉思.png.json"
+}

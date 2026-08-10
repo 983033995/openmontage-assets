@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_0000000090b871fd88a6c527c1589d50",
+  "sourceSurface": "library",
+  "originalName": "preview-caishen-theme.jpg",
+  "project": "codex-dream-skin/caishen",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-07-17T07:23:32.326610Z",
+  "syncedAt": "2026-08-10T10:05:35.305Z",
+  "mimeType": "image/jpeg",
+  "sizeBytes": 137819,
+  "sha256": "ead798f151f767527d237cfa0945de3cc94ad99635f9c6cc9bef673e1a9fb954",
+  "assetPath": "projects/codex-dream-skin/caishen/2026-07-17/preview-caishen-theme.jpg",
+  "metadataPath": "projects/codex-dream-skin/caishen/2026-07-17/preview-caishen-theme.jpg.json"
+}

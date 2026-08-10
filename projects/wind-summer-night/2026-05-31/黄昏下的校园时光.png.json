@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "migrationId": "library-2026-08-10",
+  "sourceFileId": "file_00000000534c7230adc5b7750cc0393f",
+  "sourceSurface": "library",
+  "originalName": "黄昏下的校园时光.png",
+  "project": "wind-summer-night",
+  "confidence": "high",
+  "libraryPath": null,
+  "generatedAt": "2026-05-31T13:52:04.010191Z",
+  "syncedAt": "2026-08-10T10:05:05.875Z",
+  "mimeType": "image/png",
+  "sizeBytes": 2356737,
+  "sha256": "b800a07949d4577826775ecaa6098f3cabe90e9938ff8a075d94b5b35c521677",
+  "assetPath": "projects/wind-summer-night/2026-05-31/黄昏下的校园时光.png",
+  "metadataPath": "projects/wind-summer-night/2026-05-31/黄昏下的校园时光.png.json"
+}
