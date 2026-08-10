@@ -1,1 +1,36 @@
-{"schemaVersion":1,"source":"chatgpt-library","createdAt":"2026-08-10T17:11:00+08:00","status":"inventory-complete-binary-sync-pending","discoveredImageFiles":200,"generatedAssetsApprox":88,"policy":{"include":"model_generated=true","exclude":"user-uploaded/reference images","lowConfidenceProject":"_unclassified"},"knownMappings":{"/AI浏览器插件":"pagemind","/WuxiaComic":"wuxia-comic","开票审核":"crm-invoice","preview-caishen-theme":"codex-dream-skin/caishen","齐天大圣":"codex-dream-skin/wukong","月光宝盒":"codex-dream-skin/wukong","Mia":"mia-usa","米娅":"mia-usa"},"notes":["Full Library inventory completed from 2026-05-14 through 2026-08-10.","Binary migration requires a file-capable transport; current GitHub ChatGPT connector only accepts binary via base64 create_blob, which is unsuitable for ~88 multi-MB originals.","Migration is resumable; low-confidence assets are never dropped and should enter projects/_unclassified until reclassified."]}
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-library",
+  "createdAt": "2026-08-10T17:11:00+08:00",
+  "status": "bundle-ready-import-pending",
+  "discoveredImageFiles": 200,
+  "generatedAssets": 88,
+  "bundle": {
+    "filename": "chatgpt-assets-library-2026-08-10.zip",
+    "sizeBytes": 157675766,
+    "sha256": "55542b9b890b131e75a4e96e84e36fb67a36b1d51c332c5a413c9da43cc283bb",
+    "assetCount": 88,
+    "verified": true
+  },
+  "policy": {
+    "include": "model_generated=true",
+    "exclude": "user-uploaded/reference images",
+    "lowConfidenceProject": "_unclassified"
+  },
+  "knownMappings": {
+    "/AI浏览器插件": "pagemind",
+    "/WuxiaComic": "wuxia-comic",
+    "开票审核": "crm-invoice",
+    "preview-caishen-theme": "codex-dream-skin/caishen",
+    "齐天大圣": "codex-dream-skin/wukong",
+    "月光宝盒": "codex-dream-skin/wukong",
+    "Mia": "mia-usa",
+    "米娅": "mia-usa"
+  },
+  "notes": [
+    "Full Library inventory completed from 2026-05-14 through 2026-08-10.",
+    "All 88 original generated image binaries have been exported into a verified migration bundle.",
+    "Run chatgpt-asset-sync v0.3 import:migration to write assets, metadata and SHA256 indexes to the target repository in one commit.",
+    "Migration is idempotent: already indexed SHA256 assets are skipped on retry."
+  ]
+}
